@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":1,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"阴阳师1","traits":[],"initialLevel":10,"maxLevel":99,"name":"安倍晴明","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_8","characterIndex":7,"characterName":"阴阳师","classId":2,"equips":[2,1,2,3,0],"faceIndex":1,"faceName":"阴阳师1","traits":[],"initialLevel":1,"maxLevel":99,"name":"神乐","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor3_8","characterIndex":7,"characterName":"","classId":3,"equips":[3,0,2,3,4],"faceIndex":2,"faceName":"阴阳师1","traits":[],"initialLevel":1,"maxLevel":99,"name":"源博雅","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Actor2_7","characterIndex":6,"characterName":"","classId":4,"equips":[4,0,2,3,4],"faceIndex":3,"faceName":"阴阳师1","traits":[],"initialLevel":1,"maxLevel":99,"name":"八百比丘尼","nickname":"","note":"","profile":""}
+]
